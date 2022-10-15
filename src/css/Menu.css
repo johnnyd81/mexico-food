@@ -1,0 +1,9 @@
+.links {
+  font-size: 1.6rem;
+  font-weight: 800;
+  font-style: italic;
+  width: 15%;
+  display: flex;
+  justify-content: space-around;
+}
+

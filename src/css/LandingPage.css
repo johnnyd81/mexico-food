@@ -1,0 +1,16 @@
+.intro {
+  font-size: 1.4rem;
+  width: 80%;
+  margin: 0 auto;
+  background-color: goldenrod;
+  border-radius: 6px;
+  padding: 10px;
+  font-weight: 500;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.landing {
+  background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GtuAR0I/videoblocks-various-freshly-made-mexican-foods-assortment-placed-on-colorful-table-with-nachos-tacos-tortillas-grilled-meat-dips-salsa-and-vegetables_r88vthkt4_thumbnail-1080_01.png');
+  background-size: cover;
+  min-height: 100vh;
+}

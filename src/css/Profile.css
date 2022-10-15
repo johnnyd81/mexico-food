@@ -1,0 +1,21 @@
+.profile {
+  width: 60%;
+  background-color: lightgreen;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+
+label {
+  margin-left: 22%;
+  font-weight: 500;
+  font-style: oblique;
+}
+
+input {
+  margin-left: 22%;
+  width: 50%;
+}
+
+.info {
+  font-style: italic;
+}

@@ -1,0 +1,25 @@
+.headImage {
+  height: 400px;
+  width: 400px;
+  margin-left: 35%;
+  border-radius: 50%; 
+}
+
+.App-header {
+  background-image: url('https://yournorthcounty.com/wp-content/uploads/2015/01/casa-de-bandini.jpg');
+  background-size: cover;
+}
+
+h1 {
+  text-align: center ;
+  font-size: 5rem;
+  color: gold;
+  text-shadow: 3px 3px 3px black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
