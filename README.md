@@ -7,6 +7,19 @@ to the screen i.e. Menu food items, user form etc.
 
 ![image](https://github.com/johnnyd81/mexico-food/assets/95863021/54ab390a-9571-4c89-b655-9d702b9141ff)
 
+## Running the Code Locally
+Clone / Download the project to your computer.
+
+### Start the code
+Open command prompt / terminal for the project folder and then you can run:
+
+#### npm install
+This will install the node dependencies.
+
+#### npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
 
 
 
