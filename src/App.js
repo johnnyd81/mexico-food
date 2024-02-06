@@ -9,7 +9,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 
 const loggedIn = true;
-//the products array contains objects that has data about the different food dishes 
+//the products array contains objects that has data about the different items on the food menu 
 const products = [{id: "1", product_name: "Chicken Tacos", product_img: "https://cdn.wallpapersafari.com/57/62/dcHCIS.jpg", description: 
 "Deliciously prepared chicken wrapped in our soft corn tacos. Each plate comes with four 4-inch tacos for R65.00" },
 {id: "2", product_name: "Burritos", product_img: "https://th.bing.com/th/id/OIP.1U7lr9Ga76_baUE2jxHTXAHaFj?pid=ImgDet&rs=1", description: 
