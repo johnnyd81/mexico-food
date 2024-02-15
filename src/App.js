@@ -7,7 +7,7 @@ import Menu from './Components/Menu';
 //by importing the line below I can decide which components are visible to a user at a given time
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
-
+//the login status of the user
 const loggedIn = true;
 //the products array contains objects that has data about the different items on the food menu 
 const products = [{id: "1", product_name: "Chicken Tacos", product_img: "https://cdn.wallpapersafari.com/57/62/dcHCIS.jpg", description: 
